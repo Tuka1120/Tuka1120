@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tuka
 - 👀 I’m interested in computer and coding stuff
-- 🌱 I’m currently learning c++ from the beginning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning c++, c and python from the beginning 
+- 📫 You can contact me by Messenger __Battulga Ganzorig__ or on Discord **tuka_man**
 
 <!---
 Tuka1120/Tuka1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
