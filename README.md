@@ -2,7 +2,6 @@
 - 👀 I’m interested in computer and coding stuff
 - 🌱 I’m currently learning c++, c and python from the beginning 
 - 📫 You can contact me by Messenger [Battulga Ganzorig](https://www.facebook.com/bat.tulga.75/)
-- Discord **tuka_man**
 
 <!---
 Tuka1120/Tuka1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
