@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 
 Papers with code article [](https://paperswithcode.com/paper/learning-3d-representations-from-2d-pre)
+
 Related fork repository [](https://github.com/Tuka1120/I2P-MAE)
