@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 Papers with code article [:hole:](https://paperswithcode.com/paper/learning-3d-representations-from-2d-pre)
 
-Related fork repository [:eye in speech bubble:](https://github.com/Tuka1120/I2P-MAE)
+Related fork repository [:brain:](https://github.com/Tuka1120/I2P-MAE)
