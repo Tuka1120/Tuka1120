@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tuka
 - 👀 I’m interested in computer and coding stuff
 - 🌱 I’m currently learning c++, c and python from the beginning 
-- 📫 You can contact me by Messenger [https://www.facebook.com/bat.tulga.75/ Battulga Ganzorig   ]
+- 📫 You can contact me by Messenger [Battulga Ganzorig](https://www.facebook.com/bat.tulga.75/)
 - Discord **tuka_man**
 
 <!---
